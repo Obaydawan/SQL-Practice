@@ -1,4 +1,5 @@
 # SQL-Practice
 practiced Joins
 Practiced sets
-Studied Window Functions
+Studied   Window Functions
+Practiced Winow Functions
