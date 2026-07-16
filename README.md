@@ -3,3 +3,4 @@ practiced Joins
 Practiced sets
 Studied   Window Functions
 Practiced Winow Functions
+Studied Window Aggregation
