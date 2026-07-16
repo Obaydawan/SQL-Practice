@@ -2,5 +2,5 @@
 practiced Joins
 Practiced sets
 Studied   Window Functions
-Practiced Winow Functions
+Practiced Widnow Functions
 Studied Window Aggregation
