@@ -1,5 +1,5 @@
 # SQL-Practice
-Today
+Today starting 
 practiced Joins
 Practiced sets
 Studied   Window Functions
