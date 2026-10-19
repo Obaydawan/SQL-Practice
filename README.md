@@ -1,2 +1,2 @@
 # SQL-Practice
-oday started SQL learning again
+Today started SQL learning again
